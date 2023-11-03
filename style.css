@@ -1,0 +1,24 @@
+img{
+    width:350px;
+    height: 350px;
+  }
+  body{
+    border:20px black solid;
+    padding: 20px 20px;
+    background: linear-gradient(to bottom right, #99ff33 0%, #0033cc 100%);
+  
+  
+  }
+  h4{
+    text-decoration:overline;
+    
+    text-transform: full-width;
+    color:black;
+  text-rendering: optimizeLegibility;
+  }
+  div{
+    padding: 10px 10px;
+    background: linear-gradient(to bottom right, #ff9933 0%, #33ccff 100%);
+  
+  
+  }
